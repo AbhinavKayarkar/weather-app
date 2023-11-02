@@ -1,0 +1,25 @@
+.container {
+  width: 586px;
+  height: 576px;
+  margin: auto;
+  margin-top: 10px;
+  background-color: rgb(106, 242, 242)
+}
+
+.inputCity {
+  border-radius: 80px;
+  margin-top: 60px;
+  margin-left: 200px;
+  text-align: center;
+  padding: 10px;
+}
+
+.location {
+  margin-top: 50px;
+  margin-left: 16px;
+  text-align: center
+}
+
+.minMaxTemp h5 {
+  padding-left: 180px;
+}
